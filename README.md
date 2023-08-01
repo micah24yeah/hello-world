@@ -3,7 +3,7 @@
 I am a second year Bachelor of Computing student.
 
 ## H2 My skills are lister below
-1. ``I am a great listner.`` (okay let's strikethrough that because i don't like listening to everyone.)
+1. ``I am a great listner.`` (okay let's highlight that because its important.)
 2. I have good time management skills.
 3. I am a hard working boy.
 
